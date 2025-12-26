@@ -6,9 +6,9 @@
 ```
 IC Nedir? IC (In Character), yani Karakter İçi sizin yönettiğiniz karakterin oyun içindeki hayatını ve etkileşimlerini ifade eder.Bu, karakterinizin söyledikleri, yaptıkları ve yaşadığı olaylardır.['T' tuşuna basarak yazabilirsiniz.] 
 ```
-
- > OOC Nedir? OOC (Out of Character), yani Karakter Dışı oyun dışında yapılan etkileşimler ve sohbetlerdir.Burada gerçek dünyayla ilgili konuşmalar veya oyun dışı konular ele alınır.['B' tuşuna basarak yazabilirsiniz.]
-
+```
+OOC Nedir? OOC (Out of Character), yani Karakter Dışı oyun dışında yapılan etkileşimler ve sohbetlerdir.Burada gerçek dünyayla ilgili konuşmalar veya oyun dışı konular ele alınır.['B' tuşuna basarak yazabilirsiniz.]
+```
 * **screenshot al.**
 
 > /me: Karakterinin gözlemlenebilen eylem ve dışavurumlarını yazar. Örnek '/me elini yavaşça beline atar.'
