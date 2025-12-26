@@ -1,7 +1,6 @@
 
  # Rol Dersi Sıralama
 
- * **/imla aç!**
 
 ```
 IC Nedir? IC (In Character), yani Karakter İçi sizin yönettiğiniz karakterin oyun içindeki hayatını ve etkileşimlerini ifade eder.Bu, karakterinizin söyledikleri, yaptıkları ve yaşadığı olaylardır.['T' tuşuna basarak yazabilirsiniz.] 
