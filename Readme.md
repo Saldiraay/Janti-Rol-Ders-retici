@@ -35,6 +35,7 @@ Bir sorun ile karsilastiginda F2'den rapor acabilirsin.I'dan Envanterine erişeb
 NPC'ye yaklaşarak E tuşuna basılı tut. Açılan satın alma menüsünden cep telefonu satın alabilirsin.
 ```
 * **screenshot al.**
+* **oyuncuyu dışarı çıkar**
 ```
 F4 Tuşuna basarak meslek arayüzüne erişebilir ve haritadan konumlarını işaretleyip mesleğinize başlayabilirsiniz, Unutmayın araç sürdüğünüz meslekler için ehliyet gerek.
 ```
