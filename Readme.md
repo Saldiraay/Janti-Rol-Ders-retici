@@ -27,6 +27,9 @@ PG[PowerGame]: Rolde gerçek hayatta yapamayacaklarınızı yapmak. Örnek '/me 
 ```
 IC kanalda kısaltma ve Türkçe dışı terimler kullanmak yasaktır. OOC kanalda ise argo, küfür ve hakaret yasaktır. Ailevi değerlere ve millî değerlere yönelik küfürler kesinlikle yasaktır.
 ```
+```
+Bir sorun ile karsilastiginda F2'den rapor acabilirsin.I'dan Envanterine erişebilirsin.
+```
 * **screenshot al.**
 ```
 NPC'ye yaklaşarak E tuşuna basılı tut. Açılan satın alma menüsünden cep telefonu satın alabilirsin.
@@ -38,10 +41,16 @@ F4 Tuşuna basarak meslek arayüzüne erişebilir ve haritadan konumlarını iş
 * **screenshot al.**
 * **Taş Madenciliği öğret.**
 ```
-Beyaz Hologramin ustune gidip 'İse Basla' butonuna tiklayarak ise basliyabilirsin.
+Beyaz Hologramin ustune gidip 'İse Basla' butonuna tiklayarak ise basliyabilirsin, ise basladiktan sonra eline bir kazma vericek.
+```
+```
+Bu kazmayla asagidaki tasları kırıcaksın, kırdıktan sonra envanterine gelen taslari tekrar bu beyaz hologramin ustune gelerek satabilirsin.
 ```
 * **Ehliyet aldır.**
 ```
 NPC'ye yaklaşarak E tuşuna basılı tut.Açılan menüden hangi ehliyeti alıcağını seç.
+```
+```
+Alicagin ehliyeti sectikten sonra disardaki yesil araclardan sectigin ehliyet tipine uygun araca binerek checkpointleri takip ediceksin bitirdikten sonra ehliyetin hayırlı olsun.
 ```
 * **screenshot al.**
