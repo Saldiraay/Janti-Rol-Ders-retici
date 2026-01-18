@@ -1,7 +1,7 @@
 
  # Rol Dersi Sıralama
 
-* **/roldersilistele bir oyuncu sec.(cekmek icin musait mi diye /recon id ile kontrol et.**
+* **/roldersilistele bir oyuncu sec.(cekmek icin musait mi diye '/recon id' ile kontrol et.**
 * **'/gonder id gmlounge' rol dersi koridoruna gecis yap ve oyuncuyu yanına cek.**
 * **aşağıdaki mesajları sırasıyla atmaya başla.**
 ```
