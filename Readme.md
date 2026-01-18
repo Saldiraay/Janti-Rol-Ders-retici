@@ -1,15 +1,9 @@
 
  # Rol Dersi Sıralama
 
-```
 * **/roldersilistele bir oyuncu sec.(cekmek icin musait mi diye /recon <id> ile kontrol et.**
-```
-```
 * **'/gonder <id> gmlounge' rol dersi koridoruna gecis yap ve oyuncuyu yanına cek.**
-```
-```
 * **aşağıdaki mesajları sırasıyla atmaya başla.**
-```
 ```
 IC Nedir? IC (In Character), yani Karakter İçi sizin yönettiğiniz karakterin oyun içindeki hayatını ve etkileşimlerini ifade eder.Bu, karakterinizin söyledikleri, yaptıkları ve yaşadığı olaylardır.['T' tuşuna basarak yazabilirsiniz.] 
 ```
